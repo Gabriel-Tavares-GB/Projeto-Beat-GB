@@ -1,0 +1,205 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+font-family: 'Roboto', sans-serif;
+}
+
+body{
+
+width: 100vw;
+height: 100vh;
+}
+
+header{
+width:85.375rem;
+height: 37.625rem;
+background-color: #129799;  
+}
+
+.nav-menu-top{
+
+width: 1366px;
+display: flex;
+justify-content: center;      
+}
+
+.container-p{
+
+height: 10vh;
+width:52vh;
+margin-left: 13rem;
+display:flex;
+justify-content: center;
+align-items: center;
+}
+
+.image-hand-header{
+position: absolute;
+width: 2rem;
+height: 2rem;
+left: 32.313rem;
+top:2.688rem;  
+}
+
+.section-title{
+
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+
+h1{
+  
+font-weight: bold;
+font-size:4rem;
+color: #F7F7F7;
+}
+
+
+.header-p{
+
+width:16.875rem;  
+font-size: 1.875rem;
+line-height: 2.188rem;
+height: 10vh;
+color: #F7F7F7;
+}
+
+.header-img{
+
+width: 40rem;
+height:20rem;
+left: 42.813rem;
+top:8.75rem;    
+}
+
+
+.nav-menu-baseboard{    
+  
+display: flex;
+justify-content:center;        
+}
+
+.container-p-baseboard{
+ 
+height: 15vh;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.p-baseboard{
+
+width: 16.875rem;
+font-weight: 500;
+font-size:1.875rem;    
+color: #F7F7F7;      
+}
+
+
+
+main{
+
+width: 85.375rem;
+height: 77.438rem;   
+background-color:#FFA185;
+}
+
+.section-main-title{
+
+Width:76.25rem;
+Height:17.5rem;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+.main-div-title{
+padding-left: 2.5rem;
+}
+
+.h2{
+  
+font-weight: bold;
+font-size: 3rem;
+color: #FFFFFF;
+}
+
+p{
+padding-top: 1.5rem;
+width: 75rem;  
+font-size: 1.875rem;
+}
+
+.container-main-section{
+
+display: flex;
+flex-flow: column wrap;
+}
+
+.main-image{
+margin-left:1.6rem ;
+margin-top: 2.5rem;
+width: 40rem;
+height: 21.563rem;    
+}
+
+.main-div-text{
+
+height: 10vh;
+left: 38.625rem;
+top:109.563rem;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.main-text-end{   
+ 
+width: 8.313rem;
+height: 2.188rem;
+font-style: normal;
+font-weight: bold;
+font-size: 1.875rem;
+color: #000000;
+}
+
+footer{
+width: 85.375rem;
+height: 10rem;
+left: 0.313rem;
+top: 115.063rem;
+display: flex;
+justify-content: space-around;
+background-color: #129799;
+}
+
+.img-footer{
+width: 25vh;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+.nav-footer{
+   
+display: flex;    
+align-items: center;
+}
+
+.container-footer-p{
+display: flex;   
+}
+
+.footer-p{
+
+width: 17vh;
+font-size: 1.875rem;
+color: #F7F7F7;
+display: flex;
+justify-content: flex-end;
+}
